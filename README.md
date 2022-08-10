@@ -1,5 +1,5 @@
 # Cava
-Cava themed with SweetPastel
+Cava themed with **SweetPastel**
 
 ![image](https://user-images.githubusercontent.com/65948476/183904828-4275773b-f3fd-44cc-8b7c-ccdfa6685421.png)
 
