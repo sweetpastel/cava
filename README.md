@@ -13,5 +13,5 @@ cava themed with **sweetpastel**
 
 ```sh
 mkdir ~/.config/cava
-curl https://raw.githubusercontent.com/SweetPastel/Cava/main/config --output ~/.config/cava/config
+curl https://raw.githubusercontent.com/sweetpastel/cava/main/config --output ~/.config/cava/config
 ```
